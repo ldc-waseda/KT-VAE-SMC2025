@@ -9,5 +9,5 @@ a lightweight generative framework for **pedestrian trajectory prediction** with
 
 ## 📘 Contents
 
-- [SMC25s_202](SMC25s_202.pptx) — presentation slides
+- [SMC25s_202](SMC25s_202.pdf) — presentation slides
 - additional documents or code will be added soon — please contact if you need early access
